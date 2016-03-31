@@ -1,5 +1,5 @@
 # Flapper News
-### A Reddit Clone
+## (A Reddit Clone)
 
 I've been following [Thinkster's MEAN Stack Tutorial](https://thinkster.io/mean-stack-tutorial) in my free time. It's been a brilliant way to get exposed to the MEAN stack, get a feel for a full-stack development workflow, and to build something interesting and non-trivial.
 
